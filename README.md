@@ -1,4 +1,4 @@
-<h1 align="center">namespaces</h1>
+<h1 align="center">namespacesType</h1>
 <br>
 <h3 align="center">Code lines on TypeScript and my develop on the advanced structure the language code</h3>
 <br>
